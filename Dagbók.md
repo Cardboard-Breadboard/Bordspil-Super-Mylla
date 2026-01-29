@@ -5,4 +5,4 @@ Við erum byrjaðir að líma inn lifesize spilið okkar á blað. Viðerum bún
 
 Við erum búnir að finna og hanna útlit frumgerðinnar. 
 
-![Fyrsta mynd í dagbók](.Myndir/Dagbok1.jpg)
+![Fyrsta mynd í dagbók](Myndir/Dagbok1.jpg)
