@@ -6,3 +6,10 @@ Við erum byrjaðir að líma inn lifesize spilið okkar á blað. Viðerum bún
 Við erum búnir að finna og hanna útlit frumgerðinnar. 
 
 ![Fyrsta mynd í dagbók](Myndir/Dagbok1.jpg)
+
+### 03/02/2026 11:36
+Í dag kláruðum við að hanna spilið okkar og byrjuðum á inkscape
+
+Við kláruðum að líma á blaðið og passa að við erum undir 25 pinna.
+
+![Seinni mynd í dagbók](Myndir/Dagbok2.jpg)
