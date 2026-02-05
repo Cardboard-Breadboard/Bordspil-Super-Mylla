@@ -12,6 +12,5 @@
 ## Hvernig á að spila
 
 1. Byrjið á því að ýta á start takann (græni takkinn)
-1. Annar hvor hlið byrjar og tíminn hjá þeim byrjar
-1. Ýtu á takkann sem þú vilt setja litinn þinn á
-1. Ýtu á takka þar sem þú ert nú þegar með lit og á nýjan reitt til að færa litinn sinn
+1. Annar hvor (random) hlið byrjar og tíminn hjá þeim byrjar
+1. Ýtu á takka þar sem þú ert nú þegar með lit og á nýjan reitt til að færa litinn þinn
