@@ -15,6 +15,7 @@ Við erum búnir að finna og hanna útlit frumgerðinnar.
 Við kláruðum að líma á blaðið og passa að við erum undir 25 pinna.
 
 ![Seinni mynd í dagbók](Myndir/Dagbok2.jpg)
+![](Myndir/1000006448.jpg)
 
 ### 10/2/2026 9:36
 Í dag gerðum við 3D printið sem við þurftum að gera fyrir verkefnið
