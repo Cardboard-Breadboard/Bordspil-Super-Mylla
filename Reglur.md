@@ -1,8 +1,3 @@
-# Super-Mylla
- Unnar Fróði
- 
- Sindri Snær
-
 ## Reglur
 
 1. 2 Spilarar
