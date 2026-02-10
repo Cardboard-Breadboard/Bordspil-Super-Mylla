@@ -12,7 +12,7 @@ Til skiptist setur hver leikmaður sína liti og getur síðan hreyft þá til �
 
 [Reglur](Reglur.md)
 
-![Reglur í myndformi](https://github.com/Cardboard-Breadboard/Bordspil-Super-Mylla/blob/main/Myndir/Reglur_%20Super%20Mylla.pdf)
+![Reglur í prentformi](https://github.com/Cardboard-Breadboard/Bordspil-Super-Mylla/blob/main/Myndir/Reglur_%20Super%20Mylla.pdf)
 
 [Myndir](Myndir.md)
 
