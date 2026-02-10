@@ -31,8 +31,8 @@ Til skiptist setur hver leikmaður sína liti og getur síðan hreyft þá til �
 
 ![Image one](Myndir/1000006448.jpg)
 
-# [STL og SVG](https://github.com/Cardboard-Breadboard/Bordspil-Super-Mylla/blob/main/STL%20og%20SVG.md)
+# STL og SVG
 
 ![STL Image](Myndir/Bordspil_lok(235x400)3.svg)
 
-![SVG File](SuperAllis(3).svg)
+![SVG File](Myndir/SuperAllis(3).svg)
