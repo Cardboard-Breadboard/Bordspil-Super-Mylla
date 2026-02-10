@@ -1,4 +1,7 @@
 # Super-Mylla
+ Unnar Fróði
+ 
+ Sindri Snær
 
 ## Reglur
 
