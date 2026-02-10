@@ -38,4 +38,4 @@ Við kláruðum að líma á blaðið og passa að við erum undir 25 pinna.
 
 https://www.tinkercad.com/things/iYjSP6P9Iwf-super-allis/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=AnAxkJOx8Rs0iQONwBZLLFXauEL3TW91G2C5AZmT7xA
 
-![Þriðja mynd í dagbók](Myndir/.jpg)
+![Þriðja mynd í dagbók](Myndir/TinkerCad.jpg)
