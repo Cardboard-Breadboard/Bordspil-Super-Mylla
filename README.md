@@ -33,6 +33,6 @@ Til skiptist setur hver leikmaður sína liti og getur síðan hreyft þá til �
 
 # STL og SVG
 
-![SVG Image](Myndir/Bordspil_lok(235x400)3.svg)
+![SVG Image](Myndir/Bordspil_lok(235x400)4.svg)
 
-![STL File](Myndir/SuperAllis(4).stl)
+![STL File](Myndir/SuperAllis(3).stl)
